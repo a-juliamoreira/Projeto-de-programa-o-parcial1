@@ -1,6 +1,6 @@
 ## LOJA CLOSET MENINAS <img align="center" alt="borboleta" height="60" width="60" src="https://images.vexels.com/media/users/3/135535/isolated/preview/b79e409078ebfbc02e8615b2ed5938c6-icone-de-borboleta.png">
 
-**SITE DESENVOLVIDA POR JÚLIA MOREIRA.**
+**SITE DESENVOLVIDO POR JÚLIA MOREIRA.**
 ## QUAL OBJETIVO?
 **Inspirar empreendedores se adequar à atualidade, com experiências no mundo da BELEZA FEMININA e como forma de melhoria para seus clientes.**
 ## O QUE UTILIZEI?
