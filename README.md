@@ -2,7 +2,7 @@
 
 **SITE DESENVOLVIDO POR JÚLIA MOREIRA.**
 ## QUAL OBJETIVO?
-**Inspirar empreendedores se adequar à atualidade, com experiências no mundo da BELEZA FEMININA e como forma de melhoria para seus clientes.**
+**Inspirar empreendedores se adequarem à atualidade, para que tais clientes tenham acesso a todos os seus produtos com apenas alguns cliques, como forma de facilitar seu trabalho e  melhor interação com o público-alvo, e claro, podendo ser atualizado sempre que necessário. Destacando também, experiências no mundo da BELEZA FEMININA.**
 ## O QUE UTILIZEI?
 <div>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
